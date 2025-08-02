@@ -1,6 +1,6 @@
 # ⚔️ Sound-Clash ⚔️
 
-Um web app divertido para decidir quem são os artistas mais populares do momento em uma batalha de 10 rounds! O Sound-Clash utiliza a API do Spotify para buscar dados de artistas em tempo real e oferece uma experiência interativa e dinâmica.
+Um web app divertido para decidir quem são os artistas mais populares do momento em uma batalha de 30 rounds! O Sound-Clash utiliza a API do Spotify para buscar dados de artistas em tempo real e oferece uma experiência interativa e dinâmica.
 
 [![Linguagem](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Framework](https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
@@ -8,10 +8,6 @@ Um web app divertido para decidir quem são os artistas mais populares do moment
 [![Licença](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
-
-### Demo
-![Demo do Sound-Clash](https://i.imgur.com/uI9vL2n.gif)  
-*(Dica: Você pode usar um programa como [ScreenToGif](https://www.screentogif.com/) ou [Giphy Capture](https://giphy.com/apps/giphycapture) para gravar um GIF rápido do seu app funcionando e substituir o link acima!)*
 
 ## 🚀 Acessando o Projeto
 Você pode jogar o Sound-Clash agora mesmo clicando no link abaixo:
@@ -85,7 +81,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensour
 
 ---
 
-Feito com ❤️ por **[SEU NOME AQUI]**.
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-PERFIL-AQUI/](https://www.linkedin.com/in/SEU-PERFIL-AQUI/))
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/andreamferraz](https://www.linkedin.com/in/andreamferraz))
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/decofma)
